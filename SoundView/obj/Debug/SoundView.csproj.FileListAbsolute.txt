@@ -1,0 +1,17 @@
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\SoundView.exe.config
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\SoundView.exe
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\SoundView.pdb
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\NAudio.dll
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\NAudio.xml
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.csprojAssemblyReference.cache
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.Form1.resources
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.Properties.Resources.resources
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.csproj.GenerateResource.cache
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.csproj.CoreCompileInputs.cache
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.csproj.CopyComplete
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.exe
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.pdb
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\SoundView.exe.manifest
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Debug\SoundView.application
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.exe.manifest
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Debug\SoundView.application

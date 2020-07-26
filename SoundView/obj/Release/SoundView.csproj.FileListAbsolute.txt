@@ -1,0 +1,17 @@
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\SoundView.exe.config
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\SoundView.exe.manifest
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\SoundView.application
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\SoundView.exe
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\SoundView.pdb
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\NAudio.dll
+C:\Users\shibi\source\repos\SoundView\SoundView\bin\Release\NAudio.xml
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.Form1.resources
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.Properties.Resources.resources
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.csproj.GenerateResource.cache
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.csproj.CoreCompileInputs.cache
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.exe.manifest
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.application
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.csproj.CopyComplete
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.exe
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.pdb
+C:\Users\shibi\source\repos\SoundView\SoundView\obj\Release\SoundView.csprojAssemblyReference.cache

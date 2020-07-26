@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundView", "SoundView\SoundView.csproj", "{E427C57B-2D0B-47C0-8C8D-06B7782B4142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E427C57B-2D0B-47C0-8C8D-06B7782B4142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E427C57B-2D0B-47C0-8C8D-06B7782B4142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E427C57B-2D0B-47C0-8C8D-06B7782B4142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E427C57B-2D0B-47C0-8C8D-06B7782B4142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {266F1E2B-108C-4A7F-B6E5-D8BF3195E66A}
+	EndGlobalSection
+EndGlobal
