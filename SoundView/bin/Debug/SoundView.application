@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SoundView.exe.manifest" size="4093">
+    <dependentAssembly dependencyType="install" codebase="SoundView.exe.manifest" size="8097">
       <assemblyIdentity name="SoundView.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>x13EUHStMTy/wjKUHigf9AX5Zd8EcgSHO103sSo/eoY=</dsig:DigestValue>
+        <dsig:DigestValue>gTROd378A5aLmtB5JC/TWzZOIbgBTw5f0OvowFQ3nYc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
