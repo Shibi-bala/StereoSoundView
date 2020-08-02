@@ -54,18 +54,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Overlay.NET.dll" size="48128">
-      <assemblyIdentity name="Overlay.NET" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LnI2L+Fydoiq5Z0fxsCD52UR4L915q3LVdAiHZP5ODU=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Process.NET.dll" size="139776">
       <assemblyIdentity name="Process.NET" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
