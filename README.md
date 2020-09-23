@@ -6,3 +6,6 @@ This program is meant to visualize the directional left and right sounds heard i
 Plus, I can't hear anyone to the left of me in Valorant.
 
 ![alt text](Capture.PNG "Demo")
+
+# Usage
+You should be able to just run the .exe and an overlay will show up. You may have to play your game in fullscreen windowed if it isn't showing up.
