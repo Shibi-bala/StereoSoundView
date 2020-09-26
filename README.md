@@ -9,3 +9,5 @@ Plus, I can't hear anyone to the left of me in Valorant.
 
 # Usage
 You should be able to just run the .exe and an overlay will show up. You may have to play your game in fullscreen windowed if it isn't showing up.
+
+Sorry for the lack of documentation. I wrote most of this at 3 AM and my brain just wasn't there :)
